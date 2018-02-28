@@ -37,5 +37,6 @@ _.only([{a:'ABC'}, {a:'DEF'}, {b:999}, {a:'ZZZZ'}], 'a') // ['ABC','DEF','ZZZZ']
 ### Version History
 
 | Version | Release Date | Details |   
-| :-- | :-- | :-- |    |
+| :-- | :-- | :-- |
+| 1.0.1 | 27th February, 2018 | Cosmetic fix to README. No functionality changes. |
 | 1.0.0 | 27th February, 2018 | Initial release. |

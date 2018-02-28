@@ -1,6 +1,6 @@
 {
   "name": "lodash-only",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Extend Lodash to take an array of objects and the name of a property and return an array containing only the unique values of that property.",
   "main": "index.js",
   "dependencies": {
